@@ -4,4 +4,4 @@ Solved Programming Contests<br>
 * SPOJ<br>
 * Project Euler<br><br>
 
-<ul>[Note: Please solve the problems by yourself before checking the source code, otherwise you will lose the Fun]</ul>
+<u>[Note: Please solve the problems by yourself before checking the source code, otherwise you will lose the Fun]</u>
